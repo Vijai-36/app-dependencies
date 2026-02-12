@@ -1,1 +1,3 @@
-# app-dependencies
+# App-dependencies
+
+--Dependencies for MFC application
